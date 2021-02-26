@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>description of the website</title>
+	<style type="text/css">
+		body{
+			background-color: "f000fff"; 
+		}
+	</style>
+</head>
+<body>
+	<p>
+		<center><h1><i><font color="808000" size="10">ONLINE RATION SYSTEM</font></i></h1></center><br>
+		<font size=5 color="grey">Indian ration system was established by the Governmaent of India under the Ministry of Consumer Affairs, Food and Public Distribution to distribute food and non-food to India's poor at susidised rates.</font>
+	</p>
+
+</body>
+</html>
